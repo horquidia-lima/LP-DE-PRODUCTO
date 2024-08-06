@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/007d2a0f-d445-4bd3-b87e-5fe0d7217393)
 
 -🚀 Tecnologias
--Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 HTML
 CSS
